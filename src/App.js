@@ -5,7 +5,7 @@ import { Props } from './com/props';
 function App() {
   const faiz = "Faiz"
   const [name1,setName] = useState("hello")
-  console.log(setName);
+  // console.log(setName);
   return (
     <div className="App">
      <h1>Hello </h1>
